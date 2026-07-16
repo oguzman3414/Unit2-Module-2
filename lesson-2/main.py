@@ -16,10 +16,10 @@ print(my_object.variable2)
 print(another_object.variable2)
 
 #Print variable1 from my_object
-???
+print(my_object.variable1)
 
 # Print call method foo() of object my_object
-???
+print(my_object.foo())
 # <---------------------------> End of task one <--------------------------->
 
 
@@ -34,14 +34,14 @@ class Car:
 
 
 car1 = Car()
-car2 = ???
+car2 = Car()
 
 car1.color = "blue"
-car2.color = ???
+car2.color = "red"
 
 # Print description() method of car1
-???
+print(car1.description())
 
 # Print description() method of car2
-???
+print(car2.description())   
 # <---------------------------> End of task two <--------------------------->
