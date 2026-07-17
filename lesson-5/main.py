@@ -12,7 +12,7 @@ print(square.sides)
 
 # Your code goes here!
 class Car:
-    def __init__(???):
+    def __init__(self, color, brand):
         self.color = color
         self.brand = brand
 
